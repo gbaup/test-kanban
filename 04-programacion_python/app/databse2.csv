@@ -1,0 +1,4 @@
+cedula,nombre,cargo,sueldo,fecha_ingreso,anio,mes,tipo_recibo,nombre_empleador,tipo_concepto,cantidad,monto
+12345678,Alberto Rodríguez,Desarrollador,60000,2022-09-26,2024,8,sueldos,Empresa,asignacion,1,60000
+12345678,Juan Pérez,Desarrollador,50000,2023-01-15,2024,8,sueldos,Empresa,asignacion,1,50000
+87654321,Ana González,Analista,40000,2019-02-20,2024,8,sueldos,Empresa,asignación,1,40000
